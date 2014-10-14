@@ -1,0 +1,13 @@
+{
+  "name": "crew",
+  "version": "0.0.0",
+  "homepage": "https://github.com/agencia/crew",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
