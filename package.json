@@ -1,0 +1,23 @@
+{
+  "name": "crew",
+  "version": "0.0.0",
+  "description": "Team Collaboration",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agencia/crew.git"
+  },
+  "keywords": [
+    "Team",
+    "collaboration"
+  ],
+  "author": "ulises@medrano.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agencia/crew/issues"
+  },
+  "homepage": "https://github.com/agencia/crew"
+}
